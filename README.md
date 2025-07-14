@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts prepared by bhagya
+Schell Scripts 
